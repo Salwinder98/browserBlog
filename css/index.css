@@ -1,7 +1,11 @@
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css');
-margin:0;
-padding:0;
-}
+
+.navBtn {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+  }
 @keyframes slidy {
 0% { left: 0%; }
 20% { left: 0%; }
