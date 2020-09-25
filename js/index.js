@@ -54,21 +54,6 @@ class Nav extends Page{
         }
 
         $("nav").html(`
-        <header class="header" id="header">
-<div class="menu">
-<nav class="nav">
-<ul class="nav_links">
-<!---logo-->
-<li><a href="#" class="nav_single-link nav_logo"><img style="width:60px; margin-left:50px; margin-top:50px" src="Image/coffeeicon.png"></a></li>
-<li><a href="#header" class="nav_single-link">HOME</a></li>
-<li><a href="about.html" class="nav_single-link">ABOUT</a></li>
-<li><a href="freedrink.html" class="nav_single-link">FREE DRINK</a></li>
-<li><a href="#work" class="nav_single-link">WORK</a></li>
-<li><a href="contactUS.html" class="nav_single-link">CONTACT</a></li>
-</ul>
-</nav>
- </div>
-</header>
         <div class="navbar navbar-inverse navbar-static-top" role="navigation">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -79,27 +64,16 @@ class Nav extends Page{
             </button>
             <a class="navbar-brand" href="#home">Portfolio of ${sName}</a>
         </div>
+     
+
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                ${sMenu}
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="contact.html">Contact</a></li>
             </ul>
         </div>
-        
-
-<ul id="nav">
-	<li><a href="index.html">Home</a></li>
-	<li><a href="about.html">About</a></li>
-	<li><a href="portfolio.html">Portfolio</a></li>
-	<li><a href="contact.html">Contact</a></li>
-</ul>
-
-<div id="header">
-	<h1>Hello, I'm Salwinder Kaur</h1>
-	<h2>I craft websites that are beautiful on both the inside and out.</h2>
-	
-	<p class="btn"><a href="portfolio.html">View my portfolio</a></p>
-</div>
-
 
     </div>
 
