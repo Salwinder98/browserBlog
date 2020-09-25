@@ -35,9 +35,10 @@ class Article extends Page{
     }
 }
 
-const sName = "Richard Hildred";
+const sName = "Salwinder Kaur";
 
 class Footer extends Page{
+    const sName = "Salwinder Kaur";
     render(){
         const yToday = new Date().getFullYear();
         $("footer").html(
