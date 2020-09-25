@@ -54,21 +54,55 @@ class Nav extends Page{
         }
 
         $("nav").html(`
-        <header class="header" id="header">
-<div class="menu">
-<nav class="nav">
-<ul class="nav_links">
-<!---logo-->
-<li><a href="#" class="nav_single-link nav_logo"><img style="width:60px; margin-left:50px; margin-top:50px" src="Image/coffeeicon.png"></a></li>
-<li><a href="#header" class="nav_single-link">HOME</a></li>
-<li><a href="about.html" class="nav_single-link">ABOUT</a></li>
-<li><a href="freedrink.html" class="nav_single-link">FREE DRINK</a></li>
-<li><a href="#work" class="nav_single-link">WORK</a></li>
-<li><a href="contactUS.html" class="nav_single-link">CONTACT</a></li>
-</ul>
-</nav>
- </div>
-</header>
+        <p id="logo"><a href="#"><img src="images/logo.png" alt="Chris Spooner logo" /></a></p>
+
+        <ul id="nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+        
+        <div id="header">
+            <h1>Hello, I'm Chris Spooner.</h1>
+            <h2>I craft websites that are beautiful on both the inside and out.</h2>
+            
+            <p class="btn"><a href="portfolio.html">View my portfolio</a></p>
+        </div>
+        <div id="content">
+	<h3>About Chris Spooner</h3>
+	
+	<p>I earn a living by creating custom brands and logo designs from scratch, as well as designing and building high quality websites and blogs, but I also enjoy producing the odd t-shirt graphic, illustration or character design. I pride myself in having the nerdy skills to build top notch creations online, as well as being knowledgeable in the print side of design.</p>
+	
+	<h3>My latest work</h3>
+	
+	<p>I’m forever creating design work for both myself as personal projects and as a hired gun for clients from around the world. Here’s a few of my most recent works.</p>
+	
+	<div class="portfolio-item">
+		<a href="#"><img src="images/portfolio-1.jpg" alt="View more info" /></a>
+		<p class="btn"><a href="#">See more</a></p>
+	</div>
+	
+	<div class="portfolio-item">
+		<a href="#"><img src="images/portfolio-2.jpg" alt="View more info" /></a>
+		<p class="btn"><a href="#">See more</a></p>
+	</div>
+	
+	<div class="portfolio-item">
+		<a href="#"><img src="images/portfolio-3.jpg" alt="View more info" /></a>
+		<p class="btn"><a href="#">See more</a></p>
+	</div>
+	
+	<div class="portfolio-item">
+		<a href="#"><img src="images/portfolio-4.jpg" alt="View more info" /></a>
+		<p class="btn"><a href="#">See more</a></p>
+	</div>
+	
+</div>
+<div id="footer">
+	<p id="copyright">&copy; Chris Spooner / SpoonGraphics (Please don’t steal my work)</p>
+	<p id="back-top"><a href="#">Going up?</a></p>
+</div>
 
         `);
     }
