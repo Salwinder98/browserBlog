@@ -83,7 +83,7 @@ class Nav extends Page{
         <div id="header">
         <style>
 body {
-  background-image: url('Images/Header.jpg');
+  background-image: url('Images/.jpg');
 
 }
 
