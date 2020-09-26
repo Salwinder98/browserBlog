@@ -22,7 +22,7 @@ ul#nav {
 }
 	ul#nav li {
 		width: 126px; height: 33px; float: left; padding: 13px 0 0 0;
-		background: url(Images/nav-bg.png);
+		background: url(Images/Header.);
 		font-weight: bold; text-align: center; text-transform: uppercase;
 	}
 		ul#nav li:nth-child(1) {
