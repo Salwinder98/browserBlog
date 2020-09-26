@@ -81,6 +81,7 @@ class Nav extends Page{
         </ul>
         
         <div id="header">
+        <div style="background-image: url('Images/Header.jpg');">
             <h1>Hello, I'm Chris Spooner.</h1>
             <h2>I craft websites that are beautiful on both the inside and out.</h2>
             
