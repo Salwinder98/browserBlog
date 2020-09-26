@@ -71,35 +71,16 @@ class Nav extends Page{
         }
 
         $("nav").html(`
-        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="#home">Portfolio of ${sName}</a>
-        </div>
-     
+        <p id="logo"><a href="#"><img src="Images/Logo.png" alt="Chris Spooner logo" /></a></p>
 
-        <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav navbar-right">
+        <ul id="nav">
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="portfolio.html">Portfolio</a></li>
             <li><a href="contact.html">Contact</a></li>
-            </ul>
-            </div>
-
-            
-            <div id="header">
-	<h1>Hello, I'm Salwinder Kaur.</h1>
-	<h2>I craft websites that are beautiful on both the inside and out.</h2>
-	
-	<p class="btn"><a href="portfolio.html">View my portfolio</a></p>
-</div>
-        </div>
+        </ul>
+        
+        <div id="header">
         <style>
 body {
   background-image: url('Images/.jpg');
@@ -107,7 +88,11 @@ body {
 }
 
 </style>
+            <h1>Hello, I'm Chris Spooner.</h1>
+            <h2>I craft websites that are beautiful on both the inside and out.</h2>
             
+            <p class="btn"><a href="portfolio.html">View my portfolio</a></p>
+        </div>
         <div id="content">
 	<h3>About Chris Spooner</h3>
 	
