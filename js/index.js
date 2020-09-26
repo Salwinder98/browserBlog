@@ -90,6 +90,12 @@ class Nav extends Page{
             <li><a href="portfolio.html">Portfolio</a></li>
             <li><a href="contact.html">Contact</a></li>
             </ul>
+            <div id="header">
+	<h1>Hello, I'm Salwinder Kaur.</h1>
+	<h2>I craft websites that are beautiful on both the inside and out.</h2>
+	
+	<p class="btn"><a href="portfolio.html">View my portfolio</a></p>
+</div>
         </div>
 
     </div>
