@@ -45,6 +45,7 @@ ul#nav {
             #header {
                 height: 244px; padding: 52px 0 0 57px;
                 background: url(Images/Back.svg);
+                background-color: black;
             }
             
                 #header h1 {
