@@ -112,7 +112,8 @@ ul#nav {
                         }
                             #footer a:hover {
                                 color: #671111;
-                            }      
+                            } 
+                            .container     
                             input[type=text], select, textarea {
                                 width: 100%; /* Full width */
                                 padding: 12px; /* Some padding */ 
