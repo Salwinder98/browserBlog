@@ -83,7 +83,13 @@ class Nav extends Page{
         <div id="header">
         <style>
 body {
-  background-image: url('Images/Header.jpg');
+  background-image: url('Images/Header1.jpg');
+
+}
+#header {
+    height: 244px; padding: 52px 0 0 57px;
+    background: url(Images/Header.jpg);
+  
 }
 </style>
             <h1>Hello, I'm Chris Spooner.</h1>
