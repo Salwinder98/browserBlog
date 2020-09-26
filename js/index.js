@@ -83,14 +83,10 @@ class Nav extends Page{
         <div id="header">
         <style>
 body {
-  background-image: url('Images/Header1.jpg');
+  background-image: url('Images/.jpg');
 
 }
-#header {
-    height: 244px; padding: 52px 0 0 57px;
-    background: url(Images/Header.jpg);
-  
-}
+
 </style>
             <h1>Hello, I'm Chris Spooner.</h1>
             <h2>I craft websites that are beautiful on both the inside and out.</h2>
@@ -107,7 +103,7 @@ body {
 	<p>I’m forever creating design work for both myself as personal projects and as a hired gun for clients from around the world. Here’s a few of my most recent works.</p>
 	
 	<div class="portfolio-item">
-		<a href="#"><img src="images/portfolio-1.jpg" alt="View more info" /></a>
+		<a href="#"><img src="Images/Poart1.png" alt="View more info" /></a>
 		<p class="btn"><a href="#">See more</a></p>
 	</div>
 	
