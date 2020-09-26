@@ -15,3 +15,30 @@ body {
 #logo {
 	margin: 10px auto 0 auto; position: relative; width: 183px;
 }
+ul#nav {
+	width: 940px; list-style: none; overflow: hidden; margin: -134px auto 25px auto;
+}
+	ul#nav li {
+		width: 126px; height: 33px; float: left; padding: 13px 0 0 0;
+		background: url(images/nav-bg.png);
+		font-weight: bold; text-align: center; text-transform: uppercase;
+	}
+		ul#nav li:nth-child(1) {
+			margin: 0 60px 0 0;
+		}
+		ul#nav li:nth-child(2) {
+			margin: 0 316px 0 0;
+		}
+		ul#nav li:nth-child(3) {
+			margin: 0 60px 0 0;
+		}
+		ul#nav li:nth-child(4) {
+			margin: 0;
+		}
+
+		ul#nav li a {
+			color: #616369; text-decoration: none;
+		}
+			ul#nav li a:hover {
+				color: #a12121;
+			}
