@@ -124,7 +124,6 @@ body {
 	
 </div>
 
-<------Form----->
 <div class="container">
   <form action="action_page.php">
 
