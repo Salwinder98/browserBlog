@@ -1,5 +1,17 @@
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css');
-
+.navbar-nav.navbar-right:last-child{
+    margin-right: 0%;
+    
+    }
+    .navbar-inverse {
+        background-color: #a22929;
+        border-color: #080808;
+    }
+    navbar-inverse {
+        background-color: #e65151;
+        border-color: #080808;
+    }
+    
 body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
 	margin: 0; padding: 0; border: 0;
 }
