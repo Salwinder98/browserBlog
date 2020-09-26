@@ -71,7 +71,7 @@ class Nav extends Page{
         }
 
         $("nav").html(`
-        <p id="logo"><a href="#"><img src="images/logo.png" alt="Chris Spooner logo" /></a></p>
+        <p id="logo"><a href="#"><img src="Images/Logo.png" alt="Chris Spooner logo" /></a></p>
 
         <ul id="nav">
             <li><a href="index.html">Home</a></li>
