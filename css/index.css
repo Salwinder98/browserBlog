@@ -58,7 +58,7 @@ ul#nav {
                 }
                 #header p.btn a {
                     display: block; width: 225px; height: 50px; overflow: hidden;
-                    background: url(images/home-header-btn.jpg); text-indent: -9999px;
+                    background: url(Images/nav-bg.png); text-indent: -9999px;
                 }
                 #content {
                     background: url(images/content-bg.png) repeat-y;
