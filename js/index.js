@@ -103,7 +103,7 @@ body {
 	<p>I’m forever creating design work for both myself as personal projects and as a hired gun for clients from around the world. Here’s a few of my most recent works.</p>
 	
 	<div class="portfolio-item">
-		<a href="#"><img src="Images/Poart1.png" alt="View more info" /></a>
+		<a href="#"><img src="Images/Port1.png" alt="View more info" /></a>
 		<p class="btn"><a href="#">See more</a></p>
 	</div>
 	
