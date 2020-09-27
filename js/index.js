@@ -121,7 +121,7 @@ class Nav extends Page{
 	</div>
 	
 	<div class="portfolio-item">
-		<a href="#"><img src="images/portfolio-3.jpg" alt="View more info" /></a>
+		<a href="#"><img src="Images/Port3.jpg" alt="View more info" /></a>
 		<p class="btn"><a href="#">See more</a></p>
 	</div>
 	
@@ -133,6 +133,7 @@ class Nav extends Page{
 </div>
 
 <div class="container">
+<h4>CONTACT ME</4>
   <form action="action_page.php">
 
     <label for="fname">First Name</label>
