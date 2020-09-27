@@ -93,7 +93,7 @@ class Nav extends Page{
             </div>
             <div id="header">
 	<h1>Hello, I'm Salwinder Kaur.</h1>
-	<h2>I craft websites that are beautiful on both the inside and out.</h2>
+	<h2>I am doing the ITID program in Conestoga College.I craft websites that are beautiful on both the inside and out.</h2>
 	
 	<p class="btn"><a href="portfolio.html">View my portfolio</a></p>
 </div>
