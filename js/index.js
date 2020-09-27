@@ -135,7 +135,7 @@ class Nav extends Page{
 <div class="container">
 <div style="text-align:center">
     <h2>Contact Us</h2>
-    <p>Swing by for a contact to me, or leave us a message:</p>
+    <p>Swing by for a contact to me, or leave a message:</p>
   </div>
   <form action="action_page.php">
 
@@ -161,7 +161,7 @@ class Nav extends Page{
 </div>
 
 <div id="footer">
-	<p id="copyright">&copy; Chris Spooner / SpoonGraphics (Please don’t steal my work)</p>
+	<p id="copyright">&copy; Salwinder Kaur / SpoonGraphics</p>
 	<p id="back-top"><a href="#">Going up?</a></p>
 </div>
         
