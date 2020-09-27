@@ -103,7 +103,8 @@ class Nav extends Page{
         <div id="content">
 	<h3>About Salwinder kaur</h3>
 	
-	<p>I earn a living by creating custom brands and logo designs from scratch, as well as designing and building high quality websites and blogs, but I also enjoy producing the odd t-shirt graphic, illustration or character design. I pride myself in having the nerdy skills to build top notch creations online, as well as being knowledgeable in the print side of design.</p>
+    <p>I earn a living by creating custom brands and logo designs from scratch, as well as designing and building high quality websites and blogs, but I also enjoy producing the odd t-shirt graphic, illustration or character design. I pride myself in having the nerdy skills to build top notch creations online, as well as being knowledgeable in the print side of design.I create modern responsive design for Mobile and Web Applications. My zeal to transform client's visionary products to an astonishing reality has helped me deliver high quality products. My primary focus is on timely service, scalability, performance, design, and great user experience.I create modern responsive design for Mobile and Web Applications. My zeal to transform client's visionary products to an astonishing reality has helped me deliver high quality products. 
+    My primary focus is on timely service, scalability, performance, design, and great user experience.I create modern responsive design for Mobile and Web Applications. My zeal to transform client's visionary products to an astonishing reality has helped me deliver high quality products. My primary focus is on timely service, scalability, performance, design, and great user experience.</p>
 	
 	<h3>My latest work</h3>
 	
