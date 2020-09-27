@@ -169,7 +169,7 @@ class Nav extends Page{
 </div>
 
 <div id="footer">
-	<p id="copyright">&copy; Salwinder Kaur / SpoonGraphics</p>
+	<p id="copyright">&copy; Salwinder Kaur</p>
 	<p id="back-top"><a href="#">Going up?</a></p>
 </div>
         
