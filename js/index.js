@@ -126,7 +126,7 @@ class Nav extends Page{
 	</div>
 	
 	<div class="portfolio-item">
-		<a href="#"><img src="images/portfolio-4.jpg" alt="View more info" /></a>
+		<a href="#"><img src="Images/Port44.png" alt="View more info" /></a>
 		<p class="btn"><a href="#">See more</a></p>
 	</div>
 	
