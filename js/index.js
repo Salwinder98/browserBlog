@@ -133,7 +133,10 @@ class Nav extends Page{
 </div>
 
 <div class="container">
-<h4>CONTACT ME</4>
+<div style="text-align:center">
+    <h2>Contact Us</h2>
+    <p>Swing by for a contact to me, or leave us a message:</p>
+  </div>
   <form action="action_page.php">
 
     <label for="fname">First Name</label>
