@@ -163,8 +163,6 @@ class Nav extends Page{
       <option value="usa">USA</option>
     </select>
 
-    <label for="subject">Email</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
