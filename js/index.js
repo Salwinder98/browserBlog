@@ -5,7 +5,7 @@ import aPages from "../pages/index.js";
 
 class Page {
     constructor(){
-        this.sName = "Richard Hildred";
+        this.sName = "Salwinder Kaur";
         const sBase = document.location.pathname;
         if(sBase[sBase.length - 1] == "/"){
             this.sBase = sBase.substr(0, sBase.length -1);
