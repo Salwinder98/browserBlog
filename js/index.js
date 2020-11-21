@@ -153,6 +153,9 @@ class Nav extends Page{
     <label for="lname">Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
+    <label for="lname">Email</label>
+    <input type="text" id="lname" name="email" placeholder="Your email address..">
+
     <label for="country">Country</label>
     <select id="country" name="country">
       <option value="australia">Australia</option>
